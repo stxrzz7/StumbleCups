@@ -1,0 +1,108 @@
+﻿[16:05:32.768] ------------------------------
+[16:05:32.869] MelonLoader v0.6.4 Open-Beta
+[16:05:32.878] OS: Windows 11
+[16:05:32.885] Hash Code: FDB2C58E43E95EF33E44ECA785A99B6E87A82E408D5B55F9CB24855AA99B26E6
+[16:05:32.892] ------------------------------
+[16:05:32.911] Game Type: Il2cpp
+[16:05:32.921] Game Arch: x64
+[16:05:32.927] ------------------------------
+[16:05:32.939] Core::BasePath = C:\Users\zach\Downloads\STG-StumbleCups-Test (2) ( the one that works)
+[16:05:32.952] Game::BasePath = C:\Users\zach\Downloads\STG-StumbleCups-Test (2) ( the one that works)
+[16:05:32.955] Game::DataPath = C:\Users\zach\Downloads\STG-StumbleCups-Test (2) ( the one that works)\Stumble Guys_Data
+[16:05:32.957] Game::ApplicationPath = C:\Users\zach\Downloads\STG-StumbleCups-Test (2) ( the one that works)\Stumble Guys.exe
+[16:05:32.958] Runtime Type: net6
+[16:05:33.244] ------------------------------
+[16:05:33.245] Game Name: Stumble Guys
+[16:05:33.246] Game Developer: Kitka Games
+[16:05:33.250] Unity Version: 2020.3.38f1
+[16:05:33.251] Game Version: 0.56
+[16:05:33.252] ------------------------------
+
+[16:05:34.447] Preferences Loaded!
+
+[16:05:34.699] Loading UserLibss from 'C:\Users\zach\Downloads\STG-StumbleCups-Test (2) ( the one that works)\UserLibs'...
+
+[16:05:34.718] Loading Plugins from 'C:\Users\zach\Downloads\STG-StumbleCups-Test (2) ( the one that works)\Plugins'...
+[16:05:34.723] 0 Plugins loaded.
+[16:05:36.706] [MelonStartScreen] Initializing...
+[16:05:36.774] [MelonStartScreen] Using Start Screen Theme: "Default"
+[16:05:39.573] Loading Il2CppAssemblyGenerator...
+[16:05:39.633] [Il2CppAssemblyGenerator] Contacting RemoteAPI...
+[16:05:40.346] [Il2CppAssemblyGenerator] Game Not Found on RemoteAPI Host (https://api.melonloader.com/api/v1/game/stumble-guys)
+[16:05:40.348] [Il2CppAssemblyGenerator] RemoteAPI.DumperVersion = null
+[16:05:40.349] [Il2CppAssemblyGenerator] RemoteAPI.ObfuscationRegex = null
+[16:05:40.350] [Il2CppAssemblyGenerator] RemoteAPI.MappingURL = null
+[16:05:40.351] [Il2CppAssemblyGenerator] RemoteAPI.MappingFileSHA512 = null
+[16:05:40.366] [Il2CppAssemblyGenerator] Using Dumper Version: 2022.1.0-pre-release.15
+[16:05:40.367] [Il2CppAssemblyGenerator] Using Il2CppInterop Version = 1.4.6-ci.433+45e22c2cb80a9586114a1815d77cc20104fd896c
+[16:05:40.370] [Il2CppAssemblyGenerator] Using Unity Dependencies Version = 2020.3.38
+[16:05:40.371] [Il2CppAssemblyGenerator] Using Deobfuscation Regex = null
+[16:05:40.372] [Il2CppAssemblyGenerator] Cpp2IL is up to date.
+[16:05:40.373] [Il2CppAssemblyGenerator] UnityDependencies is up to date.
+[16:05:40.374] [Il2CppAssemblyGenerator] Checking GameAssembly...
+[16:05:40.582] [Il2CppAssemblyGenerator] Assembly is up to date. No Generation Needed.
+
+[16:05:40.597] Loading Mods from 'C:\Users\zach\Downloads\STG-StumbleCups-Test (2) ( the one that works)\Mods'...
+[16:05:40.599] ------------------------------
+[16:05:40.713] Melon Assembly loaded: '.\Mods\ICheatedInTournamentsTooHardGuys.dll'
+[16:05:40.714] SHA256 Hash: '65bfa1466daeadf809db880c1caba81e2bf64e83e97883bc547e3425643ee691'
+
+[16:05:42.190] ------------------------------
+[16:05:42.191] StumbleCups v0.2.2
+[16:05:42.191] by Team IStumbledTooHardGuys
+[16:05:42.192] Assembly: ICheatedInTournamentsTooHardGuys.dll
+[16:05:42.193] ------------------------------
+[16:05:42.194] ------------------------------
+[16:05:42.196] 1 Mod loaded.
+
+[16:05:44.702] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[16:05:44.850] Registered mono type MelonLoader.Support.MonoEnumeratorWrapper in il2cpp domain
+[16:05:44.866] Registered mono type MelonLoader.Support.SM_Component in il2cpp domain
+[16:05:45.007] Support Module Loaded: C:\Users\zach\Downloads\STG-StumbleCups-Test (2) ( the one that works)\MelonLoader\Dependencies\SupportModules\Il2Cpp.dll
+[16:05:45.063] Registered mono type MenuExternalLink in il2cpp domain
+[16:05:45.067] Registered mono type SCWelcomePopupHelper in il2cpp domain
+[16:05:45.103] Registered mono type SCNameChangePopupHelper in il2cpp domain
+[16:05:45.108] Registered mono type SCBannedPopupHelper in il2cpp domain
+[16:05:45.736] [StumbleCups] Loaded the ISTHG Anticheat for StumblePriv Tournaments v0.2.2! (branch 'prod', commit '7c115da')
+[16:05:45.791] [StumbleCups] SHA256: 65bfa1466daeadf809db880c1caba81e2bf64e83e97883bc547e3425643ee691
+[16:05:45.792] [StumbleCups] Photon Quantum Version: 2.0.5.0
+[16:05:45.800] [StumbleCups] Downloading hotfixes from StumbleCups!
+[16:05:46.408] [StumbleCups] Received hotfixes after 1 attempt(s).
+[16:05:46.431] [StumbleCups] Processing hotfixes...
+[16:05:46.574] [StumbleCups] StumbleCups Asset bundle loaded successfully.
+[16:05:46.579] [StumbleCups] --------------------------
+[16:05:46.580] [StumbleCups] Resetting available patches
+[16:05:46.650] [StumbleCups] Added production patches (1/2)
+[16:05:46.651] [StumbleCups] Disabled hotfixed patches (1/1)
+[16:05:46.654] [StumbleCups] All done!
+[16:05:46.655] [StumbleCups] --------------------------
+[16:05:46.656] [StumbleCups] Patching...
+[16:05:47.579] [StumbleCups] Loaded 51 patches!
+[16:05:52.121] [StumbleCups] Registering custom gamemodes...
+[16:05:52.155] Method Void Enqueue(System.Action) on type Anticheat.Modules.UnityMainThreadDispatcher has unsupported parameter System.Action action of type System.Action
+[16:05:52.158] [StumbleCups] Registered mono type Anticheat.Modules.UnityMainThreadDispatcher in il2cpp domain
+[16:05:52.324] Loading login flow!
+[16:06:49.158] During invoking native->managed trampoline
+[16:07:35.107] [StumbleCups] Controller changed
+[16:08:02.121] [StumbleCups] Controller changed
+[16:08:22.006] [StumbleCups] Controller changed
+[16:08:24.322] [StumbleCups] Controller changed
+[16:10:31.238] [StumbleCups] Controller changed
+[16:13:40.668] [StumbleCups] Controller changed
+[16:14:24.915] During invoking native->managed trampoline
+[16:16:21.829] [StumbleCups] Controller changed
+[16:17:58.487] [StumbleCups] Controller changed
+[16:18:00.365] [StumbleCups] Controller changed
+[16:19:13.461] [StumbleCups] Controller changed
+[16:19:17.672] [StumbleCups] Controller changed
+[16:19:20.093] [StumbleCups] Controller changed
+[16:19:51.468] During invoking native->managed trampoline
+[16:20:18.247] During invoking native->managed trampoline
+[16:21:09.202] [StumbleCups] Controller changed
+[16:23:46.026] [StumbleCups] Controller changed
+[16:26:00.675] During invoking native->managed trampoline
+[16:26:28.834] During invoking native->managed trampoline
+[16:26:28.855] [StumbleCups] Controller changed
+[16:26:42.718] [StumbleCups] Controller changed
+[16:27:25.523] [StumbleCups] Controller changed
+[16:30:06.829] [StumbleCups] Controller changed

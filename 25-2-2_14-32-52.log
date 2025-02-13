@@ -1,0 +1,94 @@
+﻿[14:32:52.476] ------------------------------
+[14:32:52.498] MelonLoader v0.6.4 Open-Beta
+[14:32:52.500] OS: Windows 11
+[14:32:52.500] Hash Code: FDB2C58E43E95EF33E44ECA785A99B6E87A82E408D5B55F9CB24855AA99B26E6
+[14:32:52.500] ------------------------------
+[14:32:52.500] Game Type: Il2cpp
+[14:32:52.501] Game Arch: x64
+[14:32:52.501] ------------------------------
+[14:32:52.501] Core::BasePath = C:\Users\zach\Downloads\STG-StumbleCups-Test (2) ( the one that works)
+[14:32:52.501] Game::BasePath = C:\Users\zach\Downloads\STG-StumbleCups-Test (2) ( the one that works)
+[14:32:52.501] Game::DataPath = C:\Users\zach\Downloads\STG-StumbleCups-Test (2) ( the one that works)\Stumble Guys_Data
+[14:32:52.501] Game::ApplicationPath = C:\Users\zach\Downloads\STG-StumbleCups-Test (2) ( the one that works)\Stumble Guys.exe
+[14:32:52.502] Runtime Type: net6
+[14:32:52.596] ------------------------------
+[14:32:52.596] Game Name: Stumble Guys
+[14:32:52.597] Game Developer: Kitka Games
+[14:32:52.598] Unity Version: 2020.3.38f1
+[14:32:52.598] Game Version: 0.56
+[14:32:52.599] ------------------------------
+
+[14:32:52.961] Preferences Loaded!
+
+[14:32:53.074] Loading UserLibss from 'C:\Users\zach\Downloads\STG-StumbleCups-Test (2) ( the one that works)\UserLibs'...
+
+[14:32:53.082] Loading Plugins from 'C:\Users\zach\Downloads\STG-StumbleCups-Test (2) ( the one that works)\Plugins'...
+[14:32:53.085] 0 Plugins loaded.
+[14:32:54.166] [MelonStartScreen] Initializing...
+[14:32:54.228] [MelonStartScreen] Using Start Screen Theme: "Default"
+[14:32:55.506] Loading Il2CppAssemblyGenerator...
+[14:32:55.524] [Il2CppAssemblyGenerator] Contacting RemoteAPI...
+[14:32:57.537] [Il2CppAssemblyGenerator] Game Not Found on RemoteAPI Host (https://api.melonloader.com/api/v1/game/stumble-guys)
+[14:32:57.537] [Il2CppAssemblyGenerator] RemoteAPI.DumperVersion = null
+[14:32:57.539] [Il2CppAssemblyGenerator] RemoteAPI.ObfuscationRegex = null
+[14:32:57.539] [Il2CppAssemblyGenerator] RemoteAPI.MappingURL = null
+[14:32:57.539] [Il2CppAssemblyGenerator] RemoteAPI.MappingFileSHA512 = null
+[14:32:57.553] [Il2CppAssemblyGenerator] Using Dumper Version: 2022.1.0-pre-release.15
+[14:32:57.554] [Il2CppAssemblyGenerator] Using Il2CppInterop Version = 1.4.6-ci.433+45e22c2cb80a9586114a1815d77cc20104fd896c
+[14:32:57.554] [Il2CppAssemblyGenerator] Using Unity Dependencies Version = 2020.3.38
+[14:32:57.554] [Il2CppAssemblyGenerator] Using Deobfuscation Regex = null
+[14:32:57.555] [Il2CppAssemblyGenerator] Cpp2IL is up to date.
+[14:32:57.555] [Il2CppAssemblyGenerator] UnityDependencies is up to date.
+[14:32:57.555] [Il2CppAssemblyGenerator] Checking GameAssembly...
+[14:32:57.715] [Il2CppAssemblyGenerator] Assembly is up to date. No Generation Needed.
+
+[14:32:57.725] Loading Mods from 'C:\Users\zach\Downloads\STG-StumbleCups-Test (2) ( the one that works)\Mods'...
+[14:32:57.726] ------------------------------
+[14:32:57.824] Melon Assembly loaded: '.\Mods\ICheatedInTournamentsTooHardGuys.dll'
+[14:32:57.825] SHA256 Hash: '65bfa1466daeadf809db880c1caba81e2bf64e83e97883bc547e3425643ee691'
+
+[14:32:59.141] ------------------------------
+[14:32:59.143] StumbleCups v0.2.2
+[14:32:59.143] by Team IStumbledTooHardGuys
+[14:32:59.143] Assembly: ICheatedInTournamentsTooHardGuys.dll
+[14:32:59.143] ------------------------------
+[14:32:59.144] ------------------------------
+[14:32:59.145] 1 Mod loaded.
+
+[14:33:00.467] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[14:33:00.536] Registered mono type MelonLoader.Support.MonoEnumeratorWrapper in il2cpp domain
+[14:33:00.543] Registered mono type MelonLoader.Support.SM_Component in il2cpp domain
+[14:33:00.576] Support Module Loaded: C:\Users\zach\Downloads\STG-StumbleCups-Test (2) ( the one that works)\MelonLoader\Dependencies\SupportModules\Il2Cpp.dll
+[14:33:00.597] Registered mono type MenuExternalLink in il2cpp domain
+[14:33:00.599] Registered mono type SCWelcomePopupHelper in il2cpp domain
+[14:33:00.618] Registered mono type SCNameChangePopupHelper in il2cpp domain
+[14:33:00.620] Registered mono type SCBannedPopupHelper in il2cpp domain
+[14:33:00.893] [StumbleCups] Loaded the ISTHG Anticheat for StumblePriv Tournaments v0.2.2! (branch 'prod', commit '7c115da')
+[14:33:00.946] [StumbleCups] SHA256: 65bfa1466daeadf809db880c1caba81e2bf64e83e97883bc547e3425643ee691
+[14:33:00.946] [StumbleCups] Photon Quantum Version: 2.0.5.0
+[14:33:00.952] [StumbleCups] Downloading hotfixes from StumbleCups!
+[14:33:01.375] [StumbleCups] StumbleCups Asset bundle loaded successfully.
+[14:33:01.381] [StumbleCups] --------------------------
+[14:33:01.381] [StumbleCups] Resetting available patches
+[14:33:01.476] [StumbleCups] Added production patches (1/2)
+[14:33:01.476] [StumbleCups] Disabled hotfixed patches (1/1)
+[14:33:01.477] [StumbleCups] All done!
+[14:33:01.477] [StumbleCups] --------------------------
+[14:33:01.478] [StumbleCups] Patching...
+[14:33:02.108] [StumbleCups] Loaded 51 patches!
+[14:33:02.755] [StumbleCups] Received hotfixes after 1 attempt(s).
+[14:33:02.776] [StumbleCups] Processing hotfixes...
+[14:33:05.875] [StumbleCups] Registering custom gamemodes...
+[14:33:05.906] Method Void Enqueue(System.Action) on type Anticheat.Modules.UnityMainThreadDispatcher has unsupported parameter System.Action action of type System.Action
+[14:33:05.911] [StumbleCups] Registered mono type Anticheat.Modules.UnityMainThreadDispatcher in il2cpp domain
+[14:33:06.054] Loading login flow!
+[14:43:13.168] During invoking native->managed trampoline
+[14:54:30.184] During invoking native->managed trampoline
+[14:58:40.464] During invoking native->managed trampoline
+[15:30:51.594] During invoking native->managed trampoline
+[15:31:33.322] During invoking native->managed trampoline
+[15:33:35.361] During invoking native->managed trampoline
+[15:34:12.432] During invoking native->managed trampoline
+[15:35:09.479] During invoking native->managed trampoline
+[15:35:10.335] [StumbleCups] Preferences Saved!
+[15:35:10.697] Preferences Saved!
